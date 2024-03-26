@@ -1,3 +1,2 @@
-module github.com/wowchemy/wowchemy-block-starter
-
+module github.com/ZhongYingkc/wowchemy-block-pokemon
 go 1.19
